@@ -83,8 +83,7 @@ build/Release
 node_modules/
 jspm_packages/
 
-# TypeScript v1 declaration files
-typings/
+# Typescript v1 declaration files
 
 # Optional npm cache directory
 .npm
@@ -102,6 +101,7 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
+
 .env
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -223,6 +223,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
 
 # End of https://www.gitignore.io/api/node,macos,linux,windows,webstorm,visualstudiocode
