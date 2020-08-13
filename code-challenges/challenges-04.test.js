@@ -60,7 +60,6 @@ const isCapitalized = (str) => {
   let capTest = str.match(/[A-Z][a-zA-Z]*/g);
     return capTest || [];
   }
-  
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 4
