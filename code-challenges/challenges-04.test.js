@@ -57,13 +57,9 @@ Return an array containing all the matches.
 ------------------------------------------------------------------------------------------------ */
 
 const isCapitalized = (str) => {
-  let arr = [];
-  let capTest = /^[A-Z]/;
-  if (capTest.match(str)){
-    arr.push(str);
+  let capTest = str.match(/[A-Z][a-zA-Z]*/g);
+    return capTest || [];
   }
-  
-  };
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 4
