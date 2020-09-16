@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5b6e0fb-3c53-46ba-80cd-feb9546fee2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="array-reverse" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="array-reverse" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="array-reverse" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hYxOH3wQW9jtKJI1sRtcS9mSwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/array/reverse" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="array-reverse [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.array-reverse [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5b6e0fb-3c53-46ba-80cd-feb9546fee2e" name="Default Changelist" comment="" />
+      <created>1600201792710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600201792710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="123" width="1200" height="542" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600211498295">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="118" y="123" width="1200" height="542" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.793@0.23.1440.793" timestamp="1600211498295" />
+    <state x="634" y="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600207709746">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="634" y="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.793@0.23.1440.793" timestamp="1600207709746" />
+    <state width="1358" height="232" key="GridCell.Tab.0.bottom" timestamp="1600213843350">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1600213843350" />
+    <state width="1358" height="232" key="GridCell.Tab.0.center" timestamp="1600213843349">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1600213843349" />
+    <state width="1358" height="232" key="GridCell.Tab.0.left" timestamp="1600213843349">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1600213843349" />
+    <state width="1358" height="232" key="GridCell.Tab.0.right" timestamp="1600213843349">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1600213843349" />
+    <state width="1358" height="232" key="GridCell.Tab.1.bottom" timestamp="1600213843350">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.1.bottom/0.23.1440.793@0.23.1440.793" timestamp="1600213843350" />
+    <state width="1358" height="232" key="GridCell.Tab.1.center" timestamp="1600213843350">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.1.center/0.23.1440.793@0.23.1440.793" timestamp="1600213843350" />
+    <state width="1358" height="232" key="GridCell.Tab.1.left" timestamp="1600213843350">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.1.left/0.23.1440.793@0.23.1440.793" timestamp="1600213843350" />
+    <state width="1358" height="232" key="GridCell.Tab.1.right" timestamp="1600213843350">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1358" height="232" key="GridCell.Tab.1.right/0.23.1440.793@0.23.1440.793" timestamp="1600213843350" />
+    <state x="213" y="137" width="1009" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600209345894">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="213" y="137" width="1009" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.793@0.23.1440.793" timestamp="1600209345894" />
+  </component>
+</project>
