@@ -30,4 +30,4 @@ Provide meaningful tests to verify program works.
 We spent a good amount of time whiteboarding the problem domain and the pseudocode which helped us when it came time to write the actual code and tests.
 
 ## Solution
-<img src="assets/cc03.png"/>
+<img src="cc03.png"/>
