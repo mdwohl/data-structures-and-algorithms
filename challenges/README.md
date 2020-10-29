@@ -1,4 +1,4 @@
 ### Code Challenge Readme
 
-[README CC 02](assets/README02.md)
-[README CC 03](assets/README03.md)
+
+[Code Challenge 31](https://github.com/mdwohl/data-structures-and-algorithms/tree/master/challenges/src/main/java/repeatedWord)
