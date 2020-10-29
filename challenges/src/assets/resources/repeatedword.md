@@ -8,4 +8,4 @@ We took in the string, and used toLowerCase() and regex for removing commas so t
 O(n^2) Time 
 O(1) Space
 ## Solution
-[Whiteboard](https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/code-challenge-whiteboards/CC31_whiteboard.png)
+Whiteboard: ![](https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/code-challenge-whiteboards/CC31_whiteboard.png)
