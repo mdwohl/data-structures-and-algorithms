@@ -5,7 +5,7 @@ Extend the graph from Code Challenge 35 so that you traverse a set of values in 
 Return the first word to occur more than once in that provided string.
 ## Approach & Efficiency
 We used a HashSet to store values as we encountered them. That was used to check if a value had been seen already, and then an ArrayList held values in order as the object for the return output.
--O(n) Time 
--O(n) Space
+- O(n) Time 
+- O(n) Space
 ## Solution
 Whiteboard: ![]https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/src/assets/resources/cc36_screenshot.png
