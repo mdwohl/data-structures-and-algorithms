@@ -8,4 +8,4 @@ We used a HashSet to store values as we encountered them. That was used to check
 - O(n) Time 
 - O(n) Space
 ## Solution
-Whiteboard: ![] (https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/src/assets/resources/cc36_screenshot.png)
+Whiteboard: ![](https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/code-challenge-whiteboards/CC36_whiteboard.png)
