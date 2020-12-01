@@ -42,29 +42,4 @@ public class Tree {
         }
         return current;
     }
-    //function for finding the maximum value in tree
-    public int findMax(){
-        int bigOne = Integer.MIN_VALUE;
-        return findMax();
-    }
-    private int findMaxUtil(Node current, int bigOne){
-        if(current == null) return bigOne;
-        if(current.value > bigOne)
-            bigOne = current.value;
-        return current.value > findMax()? findMaxUtil(current.left,bigOne)
-                : findMaxUtil(current.right, bigOne);
-    }
-
-    public ArrayList breadthFirst(){
-        ArrayList<Integer> array = new ArrayList<>();
-        Queue<Node> queue = new LinkedList<Node>();
-        if(root != null) queue.add(root);
-        while(!queue.isEmpty()){
-            Node node = queue.remove();
-            array.add(node.value);
-            if(node.left != null) queue.add(node.left);
-            if(node.right != null) queue.add(node.right);
-        }
-        return array;
-    }
 }

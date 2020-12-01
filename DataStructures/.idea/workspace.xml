@@ -20,21 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b632734-686c-46f5-987b-4a8dae18f10c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/tree/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/TreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../challenges/src/main/java/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../challenges/src/main/java/graph/breadthFirst/BreadthFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../challenges/src/main/java/treeIntersection/TreeIntersection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utilities/AnimalShelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utilities/AnimalShelter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/PseudoQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/PseudoQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/StacksAndQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/StacksAndQueues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructures/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructures/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructures/tree/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructures/tree/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructures/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructures/TreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenges/src/main/java/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/../challenges/src/main/java/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenges/src/main/java/graph/breadthFirst/BreadthFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/../challenges/src/main/java/graph/breadthFirst/BreadthFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../challenges/src/main/java/treeIntersection/TreeIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../challenges/src/main/java/treeIntersection/TreeIntersection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,21 +58,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.unlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.TreeTest">
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.DataStructures.tree.BinarySearchTree" />
-      <module name="linked-list" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.DataStructures.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TreeTest.findMaxEmptyTree">
+    <configuration name="TreeTest.breadthFirstSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="linked-list" />
       <extension name="coverage">
         <pattern>
@@ -90,15 +69,83 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.java.DataStructures" />
       <option name="MAIN_CLASS_NAME" value="test.java.DataStructures.TreeTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="breadthFirstSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.findMaxEmptyTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.DataStructures" />
+      <option name="MAIN_CLASS_NAME" value="test.java.DataStructures.TreeTest" />
+      <option name="METHOD_NAME" value="findMaxEmptyTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.findMaxEqualVals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.DataStructures" />
+      <option name="MAIN_CLASS_NAME" value="test.java.DataStructures.TreeTest" />
+      <option name="METHOD_NAME" value="findMaxEqualVals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.findMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.DataStructures" />
+      <option name="MAIN_CLASS_NAME" value="test.java.DataStructures.TreeTest" />
+      <option name="METHOD_NAME" value="findMaxTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.singleNodeTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="linked-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.DataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.DataStructures" />
+      <option name="MAIN_CLASS_NAME" value="test.java.DataStructures.TreeTest" />
+      <option name="METHOD_NAME" value="singleNodeTree" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TreeTest" />
-        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="JUnit.TreeTest.findMaxEmptyTree" />
+        <item itemvalue="JUnit.TreeTest.findMaxEqualVals" />
+        <item itemvalue="JUnit.TreeTest.findMaxTest" />
+        <item itemvalue="JUnit.TreeTest.singleNodeTree" />
+        <item itemvalue="JUnit.TreeTest.breadthFirstSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -126,26 +173,58 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2518" height="424" key="GridCell.Tab.0.bottom" timestamp="1606341229797">
+    <state x="408" y="156" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606850084084">
+      <screen x="0" y="23" width="1440" height="780" />
+    </state>
+    <state x="408" y="156" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.780/1440.23.2560.1417@0.23.1440.780" timestamp="1606850084084" />
+    <state width="2518" height="442" key="GridCell.Tab.0.bottom" timestamp="1606852952866">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="424" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606341229797" />
-    <state width="2518" height="424" key="GridCell.Tab.0.center" timestamp="1606341229796">
+    <state width="2518" height="442" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606852952866" />
+    <state width="1398" height="424" key="GridCell.Tab.0.bottom/0.23.1440.780@0.23.1440.780" timestamp="1606554808583" />
+    <state width="1398" height="424" key="GridCell.Tab.0.bottom/0.23.1440.783@0.23.1440.783" timestamp="1606460535807" />
+    <state width="2518" height="442" key="GridCell.Tab.0.center" timestamp="1606852952864">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="424" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606341229796" />
-    <state width="2518" height="424" key="GridCell.Tab.0.left" timestamp="1606341229794">
+    <state width="2518" height="442" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606852952864" />
+    <state width="1398" height="424" key="GridCell.Tab.0.center/0.23.1440.780@0.23.1440.780" timestamp="1606554808581" />
+    <state width="1398" height="424" key="GridCell.Tab.0.center/0.23.1440.783@0.23.1440.783" timestamp="1606460535806" />
+    <state width="2518" height="442" key="GridCell.Tab.0.left" timestamp="1606852952863">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="424" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606341229794" />
-    <state width="2518" height="424" key="GridCell.Tab.0.right" timestamp="1606341229797">
+    <state width="2518" height="442" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606852952863" />
+    <state width="1398" height="424" key="GridCell.Tab.0.left/0.23.1440.780@0.23.1440.780" timestamp="1606554808580" />
+    <state width="1398" height="424" key="GridCell.Tab.0.left/0.23.1440.783@0.23.1440.783" timestamp="1606460535805" />
+    <state width="2518" height="442" key="GridCell.Tab.0.right" timestamp="1606852952865">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
-    <state width="2518" height="424" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606341229797" />
+    <state width="2518" height="442" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606852952865" />
+    <state width="1398" height="424" key="GridCell.Tab.0.right/0.23.1440.780@0.23.1440.780" timestamp="1606554808582" />
+    <state width="1398" height="424" key="GridCell.Tab.0.right/0.23.1440.783@0.23.1440.783" timestamp="1606460535806" />
+    <state width="2518" height="520" key="GridCell.Tab.1.bottom" timestamp="1606851184029">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606851184029" />
+    <state width="2518" height="520" key="GridCell.Tab.1.center" timestamp="1606851184027">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606851184026" />
+    <state width="2518" height="520" key="GridCell.Tab.1.left" timestamp="1606851184025">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606851184025" />
+    <state width="2518" height="520" key="GridCell.Tab.1.right" timestamp="1606851184028">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="520" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606851184028" />
     <state x="2443" y="619" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606339833655">
       <screen x="1440" y="0" width="2560" height="1440" />
     </state>
     <state x="2443" y="619" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606339833655" />
+    <state x="2385" y="345" key="run.anything.popup" timestamp="1606851301640">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2385" y="345" key="run.anything.popup/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1606851301640" />
     <state x="451" y="140" width="670" height="676" key="search.everywhere.popup" timestamp="1600452920137">
       <screen x="0" y="23" width="1440" height="793" />
     </state>

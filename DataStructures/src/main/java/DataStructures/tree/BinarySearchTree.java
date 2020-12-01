@@ -82,6 +82,20 @@ public class BinarySearchTree {
         return inorderArray;
     }
 
+    //function for finding the maximum value in tree
+    public int findMax(){
+        int bigOne = Integer.MIN_VALUE;
+        return findMaxUtil(root, bigOne);
+    }
+    private int findMaxUtil(Node current, int bigOne){
+        if(current == null) return bigOne;
+        if(current.value > bigOne)
+            bigOne = current.value;
+        return current.value > bigOne
+                ? findMaxUtil(current.left, bigOne)
+                : findMaxUtil(current.right, bigOne);
+    }
+
     public ArrayList breadthFirst(){
         ArrayList<Integer> array = new ArrayList<>();
         Queue<Node> queue = new LinkedList<Node>();
