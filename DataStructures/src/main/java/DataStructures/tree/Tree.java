@@ -1,19 +1,14 @@
 package main.java.DataStructures.tree;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Queue;
-
 //thanks to Chandler for help with this
 
 
-public class Tree {
+public class Tree<S> {
     public Node root;
     public Tree(){}
 
-    public Tree createTheTree(){
-        Tree tree1 = new Tree();
+    public Tree<S> createTheTree(){
+        Tree<S> tree1 = new Tree<S>();
         tree1.add(3);
         tree1.add(5);
         tree1.add(7);
@@ -42,4 +37,5 @@ public class Tree {
         }
         return current;
     }
+
 }
