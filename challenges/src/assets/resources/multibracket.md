@@ -1,4 +1,4 @@
-# Stacks and Queues
+# Multibracket Validation
 Write a method to check whether pairs of brackets, curly brackets, or parentheses are valid.
 
 ## Challenge
