@@ -6,6 +6,9 @@
 - [Code Challenge 11](https://github.com/mdwohl/data-structures-and-algorithms/tree/master/DataStructures/src/main/StacksAndQueues)
 - [CC 11 Readme](https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/src/assets/resources/pseudoqueue.md)
 
+- [Code Challenge 13](https://github.com/mdwohl/data-structures-and-algorithms/tree/master/DataStructures/src/main/java/DataStructures/multibracket)
+- [CC 13 Readme](https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/src/assets/resources/pseudoqueue.md)
+
 - [Code Challenge 15](https://github.com/mdwohl/data-structures-and-algorithms/tree/master/DataStructures/src/main/java/DataStructures)
 - [CC 15 Readme](https://github.com/mdwohl/data-structures-and-algorithms/blob/master/challenges/src/assets/resources/tree.md)
 
